@@ -1,0 +1,16 @@
+{
+    "name": "webopen-littlesister-utils",
+    "version": "1.0.0",
+    "description": "大前端一些编程小技巧和封装的小玩意",
+    "main": "./index.js",
+    "bin": {
+      "utils": "./bin/utils.js"
+    },
+    "scripts": {},
+    "author": "webopen-littlesister",
+    "license": "ISC",
+    "keywords": [
+      "utils",
+      "js"
+    ]
+  }
